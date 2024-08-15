@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 My favorite project is [Juice Power](https://github.com/mtchoum1/Juice-Power)
+- ❤️ My favorite project is [Juice Power](https://github.com/mtchoum1/Juice-Power)
 
 - 🤝 Also check out [Carver Container](https://github.com/mtchoum1/Carver-Container)
 
