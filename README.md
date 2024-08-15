@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **tchoumi31mo@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/mtchoum1](https://github.com/mtchoum1)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1tmWFgQLlih_qF6hQjRAXw31gMedXqDe2/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
