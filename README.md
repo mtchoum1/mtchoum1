@@ -1,21 +1,17 @@
-<h1 align="center">Hi 👋, I'm Moryan Tchoumi he\him</h1>
+<h1 align="center">Hi 👋, I'm Moryan Tchoumi (he\him)</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtchoum1&label=Profile%20views&color=0e75b6&style=flat" alt="mtchoum1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mtchoum1" alt="mtchoum1" /></a> </p>
 
 - 🔭 I’m currently working on [Pay Up](https://github.com/uenishia26/PayUp)
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on [Juice Power](https://github.com/mtchoum1/Juice-Power)
+- 👯 My favorite project is [Juice Power](https://github.com/mtchoum1/Juice-Power)
 
-- 🤝 I’m looking for help with [Carver Container](https://github.com/mtchoum1/Carver-Container)
+- 🤝 Also check out [Carver Container](https://github.com/mtchoum1/Carver-Container)
 
 - 👨‍💻 All of my projects are available at [https://github.com/mtchoum1](https://github.com/mtchoum1)
-
-- 📝 I regularly write articles on [https://github.com/mtchoum1](https://github.com/mtchoum1)
 
 - 💬 Ask me about **Machine Learning**
 
