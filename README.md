@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Moryan Tchoumi (he\him)</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h1 align="center">Moryan Tchoumi</h1>
+<h3 align="center"> A kid who fell in love with video games but know whats to change the world 🌎</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtchoum1&label=Profile%20views&color=0e75b6&style=flat" alt="mtchoum1" /> </p>
 
