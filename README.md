@@ -1,15 +1,15 @@
 <h1 align="center">Moryan Tchoumi</h1>
-<h3 align="center"> A kid who fell in love with video games but now wants to change the world 🌎</h3>
+<h3 align="center">Leveraging a lifelong passion for gaming to solve real-world problems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtchoum1&label=Profile%20views&color=0e75b6&style=flat" alt="mtchoum1" /> </p>
 
-- 🔭 I’m currently working on [Pay Up](https://github.com/uenishia26/PayUp)
+- 🔭 I’m currently working on [NFL Predictor/Pick'Em](https://github.com/mtchoum1/nfl_pred)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Operating Systems**
 
-- ❤️ My favorite project is [Juice Power](https://github.com/mtchoum1/Juice-Power)
+- ❤️ My favorite project is [Pay Up](https://github.com/uenishia26/PayUp)
 
-- 🤝 Also check out [Carver Container](https://github.com/mtchoum1/Carver-Container)
+- 🤝 Also check out [Juice Power](https://github.com/mtchoum1/Juice-Power)
 
 - 👨‍💻 All of my projects are available at [https://github.com/mtchoum1](https://github.com/mtchoum1)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **tchoumi31mo@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1tmWFgQLlih_qF6hQjRAXw31gMedXqDe2/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1ZVBVvi6rPqr6uZ-NKf45QpSYgoigCEe6/edit?usp=drive_link&ouid=115305526941599403133&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
